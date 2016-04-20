@@ -1,0 +1,9 @@
+c:\users\smcna\documents\visual studio 2015\Projects\CSharpAlgos\CSharpAlgos\bin\Debug\CSharpAlgos.exe.config
+c:\users\smcna\documents\visual studio 2015\Projects\CSharpAlgos\CSharpAlgos\bin\Debug\CSharpAlgos.exe
+c:\users\smcna\documents\visual studio 2015\Projects\CSharpAlgos\CSharpAlgos\bin\Debug\CSharpAlgos.pdb
+c:\users\smcna\documents\visual studio 2015\Projects\CSharpAlgos\CSharpAlgos\obj\Debug\CSharpAlgos.csprojResolveAssemblyReference.cache
+c:\users\smcna\documents\visual studio 2015\Projects\CSharpAlgos\CSharpAlgos\obj\Debug\CSharpAlgos.exe
+c:\users\smcna\documents\visual studio 2015\Projects\CSharpAlgos\CSharpAlgos\obj\Debug\CSharpAlgos.pdb
+C:\Users\smcna\Source\Repos\CSharp\CsharpRepo\CSharpAlgos\bin\Debug\CSharpAlgos.exe.config
+C:\Users\smcna\Source\Repos\CSharp\CsharpRepo\CSharpAlgos\obj\Debug\CSharpAlgos.exe
+C:\Users\smcna\Source\Repos\CSharp\CsharpRepo\CSharpAlgos\obj\Debug\CSharpAlgos.pdb
